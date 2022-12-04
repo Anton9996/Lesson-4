@@ -22,7 +22,7 @@ void PrintArray(int[] ress)
 {
     for (int i = 0; i < ress.Length; i++)
     {
-        Console.Write($"{ress[i]}");
+        Console.Write($"{ress[i]},");
     }
 }
 
